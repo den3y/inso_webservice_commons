@@ -1,0 +1,5 @@
+interfaces\AbstractMeasurementLogic.class
+resources\MeasurementResources.class
+commons\MeasurementLogic.class
+configurations\JAXRSConfiguration.class
+commons\Measurement.class
